@@ -4,5 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello. I am Rebecca. <br>
   This is my portfolio. I took some cool pictures.<br>
   I hope you like them.
+  <br><a href="https://rmr78.github.io">Portfolio</a>
+  <br><a href="https://rmr78.github.io/about.html">About</a>
 
 theme: jekyll-theme-minimal
