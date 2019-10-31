@@ -1,5 +1,6 @@
 ## Portfolio
 
+[My About Page](about.md)
 ---
 
 ### Category 1 
