@@ -1,7 +1,5 @@
 #About Me
 
-[Portfolio Page Here](index.md)
-
 I am a marketing major.
 This is my website.
 This text doesn't matter. 
