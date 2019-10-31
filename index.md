@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Category 1 
 
-Picture 1#[Project 1 Title](/sample_page)
+Picture 1
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Picture 2#[Project 2 Title](/pdf/sample_presentation.pdf)
+Picture 2
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Picture 3#[Project 3 Title](http://example.com/)
+Picture 3
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
