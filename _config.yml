@@ -3,8 +3,9 @@ logo: "/images/logo.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello. I am Rebecca. <br>
   This is my portfolio. I took some cool pictures.<br>
-  I hope you like them. 
-  [Portfolio](index.md)
-  [About](about.md)
-  
+  I hope you like them.
+  <br><a src="index.md">Portfolio</a>
+  <br><a src="about.md">About</a>
+
+
 theme: jekyll-theme-minimal
